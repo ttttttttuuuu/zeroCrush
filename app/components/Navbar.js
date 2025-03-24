@@ -54,8 +54,8 @@ export default function Navbar() {
     <AppBar
       position="fixed"
       sx={{
-        // bgcolor: "rgba(255, 255, 255, 0.95)",
-        bgcolor: "#d1e6db",
+        bgcolor: "rgba(255, 255, 255, 0.95)",
+        // bgcolor: "#d1e6db",
         backdropFilter: "blur(8px)",
         boxShadow: "0 2px 20px rgba(0,0,0,0.1)",
       }}
