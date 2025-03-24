@@ -162,7 +162,7 @@ export default function Footer() {
               <Typography variant="body2" sx={{ color: "#A0A0A0" }}>
                 Email: contact@carboncalculator.com
               </Typography>
-              <Typography
+              {/* <Typography
                 variant="body2"
                 sx={{
                   color: "#A0A0A0",
@@ -172,7 +172,7 @@ export default function Footer() {
               >
                 {getVisitorText()}
                 {isLoading ? "..." : visitorCount}
-              </Typography>
+              </Typography> */}
             </Box>
           </Grid>
         </Grid>
