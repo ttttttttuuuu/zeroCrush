@@ -1,0 +1,12 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "methodology": "Methodology"
+  },
+  "hero": {
+    "title": "Smart Carbon Neutral ESG Tracking Platform",
+    "subtitle": "Help enterprises achieve carbon neutrality and promote sustainable development"
+  }
+  // ... 更多翻译
+}

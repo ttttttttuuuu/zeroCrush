@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "methodology": "Methodology"
+  },
+  "methodology": {
+    "title": "Professional Carbon Emission Assessment System",
+    "subtitle": "Scientific, Accurate, and Transparent Carbon Footprint Calculation Methods and Assessment Standards",
+    "cases": "Success Cases",
+    "faq": "FAQ",
+    "updates": "Updates",
+    "feedback": "Feedback"
+  }
+}

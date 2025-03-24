@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "methodology": "计算方法"
+  },
+  "methodology": {
+    "title": "专业碳排放评估体系",
+    "subtitle": "科学、准确、透明的碳足迹计算方法与评估标准",
+    "cases": "成功案例研究",
+    "faq": "常见问题",
+    "updates": "更新日志",
+    "feedback": "反馈建议"
+  }
+}
